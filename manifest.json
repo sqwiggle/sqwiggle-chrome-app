@@ -1,0 +1,22 @@
+{
+  "name": "Sqwiggle",
+  "description": "Sqwiggle is video and chat built for remote teams.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icons/icon-128.png"
+  },
+  "app": {
+    "urls": [
+      "*://app.sqwiggle.com",
+      "*://www.sqwiggle.com"
+    ],
+    "launch": {
+      "web_url": "https://app.sqwiggle.com/"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
