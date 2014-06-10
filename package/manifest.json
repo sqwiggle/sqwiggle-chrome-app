@@ -8,8 +8,8 @@
   },
   "app": {
     "urls": [
-      "*://app.sqwiggle.com",
-      "*://www.sqwiggle.com"
+      "*://app.sqwiggle.com/",
+      "*://www.sqwiggle.com/"
     ],
     "launch": {
       "web_url": "https://app.sqwiggle.com/"
